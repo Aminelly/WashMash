@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "paska"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "contextdiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
